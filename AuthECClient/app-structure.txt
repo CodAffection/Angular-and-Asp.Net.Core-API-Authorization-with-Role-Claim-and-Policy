@@ -1,0 +1,27 @@
+src
+└── app
+    ├── user
+    │   ├── user.component.ts|.html  
+    │   ├── login (cmp. folder)   
+    │   └── registration (cmp. folder)
+    │       
+    ├── dashboard (cmp. folder)
+    ├── forbidden (cmp. folder)
+    ├── environments                     
+    |   └── environment.ts|environment.development.ts
+    ├── layout                       
+    |   └── main-layout (cmp. folder) 
+    │       
+    └── shared
+        ├── auth.guard.ts    
+        ├── auth.interceptor.ts                  
+        ├── constants.ts       
+        ├── utils                         
+        |   └── claimReq-utils.ts        
+        ├── directives                         
+        |   └── hide-if-claims-not-met.directive.ts         
+        ├── pipes
+        │   └── first-key.pipe.ts  
+        └── services
+            ├── user.service.ts         
+            └── auth.service.ts

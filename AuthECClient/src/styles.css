@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  font-family: "Inter", sans-serif;
+}
+
+/* form validation */
+.error-feedback {
+  font-size: 0.9rem;
+  color: crimson;
+  margin: 0.3rem !important;
+  margin-top: 0.1rem !important;
+}
+
+#main {
+  margin-left: 240px;
+}
+
+/* side bar */
+#sidebar {
+  width: 240px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+#sidebar li.nav-item a {
+  color: #637381;
+  font-size: 0.9rem;
+  font-weight: 500;
+  padding: 0.7rem 1rem;
+}
+
+#sidebar li.nav-item:hover {
+  background-color: #007fff17;
+  border-radius: 0.5rem;
+}

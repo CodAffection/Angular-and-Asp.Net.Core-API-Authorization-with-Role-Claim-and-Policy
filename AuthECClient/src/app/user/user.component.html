@@ -1,0 +1,20 @@
+<div class="container">
+  <div class="row vh-100 align-items-center">
+    <div class="col-xxl-6 offset-xxl-3 col-lg-8 offset-lg-2 col-10 offset-1">
+      <div class="row rounded-4 border-0 shadow-lg bg-white" style="min-height:450px;">
+        <div class="col-md-5 d-md-flex d-none bg-success rounded-start-4 align-items-center justify-content-center">
+          <div class="text-center text-white">
+            <img src="authec-logo.png" class="w-50 mb-3">
+            <h2 class="fw-bolder">Auth EC</h2>
+          </div>
+        </div>
+        <div class="col-md-7 col-12 d-flex justify-content-start align-items-center">
+          <div class="p-5 w-100" [@routerFadeIn]="getRouteUrl()">
+            <router-outlet />
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

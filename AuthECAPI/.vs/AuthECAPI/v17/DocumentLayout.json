@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\controllers\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\controllers\\authorizationdemoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\authorizationdemoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\userdetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\userdetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\controllers\\orderendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\orderendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\youtube\\videos\\angular\\angular 18\\angular authorization (role, claim \u0026 policy) with .net core api\\project\\authecapi\\authecapi\\migrations\\20240813044904_addedgenderdoblibraryid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20240813044904_addedgenderdoblibraryid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentityUserEndpoints.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAArwFgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:16:22.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppUser.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Models\\AppUser.cs",
+              "RelativeToolTip": "AuthECAPI\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAABAwBMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:41:03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthECAPI\\appsettings.json",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeToolTip": "AuthECAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T05:11:15.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Program.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "RelativeToolTip": "AuthECAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T08:27:05.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAArwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:11:41.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountEndpoints.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Controllers\\AccountEndpoints.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\AccountEndpoints.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Controllers\\AccountEndpoints.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\AccountEndpoints.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA9wBUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T12:42:08.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizationDemoEndpoints.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAArwA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:56:40.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "userdetails.json",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\userdetails.json",
+              "RelativeDocumentMoniker": "AuthECAPI\\userdetails.json",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\userdetails.json",
+              "RelativeToolTip": "AuthECAPI\\userdetails.json",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T09:09:36.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppConfigExtensions.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:53:33.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240813044904_AddedGenderDOBLibraryID.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Migrations\\20240813044904_AddedGenderDOBLibraryID.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20240813044904_AddedGenderDOBLibraryID.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Migrations\\20240813044904_AddedGenderDOBLibraryID.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20240813044904_AddedGenderDOBLibraryID.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:49:04.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EFCoreExtensions.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:59:10.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:20:49.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderEndpoints.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Controllers\\OrderEndpoints.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\OrderEndpoints.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Controllers\\OrderEndpoints.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\OrderEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T13:45:37.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppSettings.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Models\\AppSettings.cs",
+              "RelativeToolTip": "AuthECAPI\\Models\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:13:25.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\YouTube\\Videos\\Angular\\Angular 18\\Angular Authorization (Role, Claim \u0026 Policy) with .Net Core API\\Project\\AuthECAPI\\AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:05:53.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
